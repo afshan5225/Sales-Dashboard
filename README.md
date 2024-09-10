@@ -2,6 +2,9 @@
 
 This repository showcases an interactive **Sales Dashboard** created using Tableau to analyze key business metrics such as total sales, profit, and regional performance. The dashboard helps provide actionable insights through easy-to-understand visualizations.
 
+## 🖼️ Dashboard
+![Sales Dashboard](https://github.com/afshan5225/Sales-Dashboard/blob/main/Sales_dashboard.png)
+
 ## 📝 Project Overview
 
 The dashboard presents key sales metrics for the year, including:
@@ -17,8 +20,6 @@ The dashboard presents key sales metrics for the year, including:
 - **Monthly Sales by Segment**: Graphical insights for segments like Consumer, Corporate, and Home Office.
 - **Manager Performance Breakdown**: Displaying regional managers' performance with sales and profit analysis.
 
-## 🖼️ Dashboard
-![Sales Dashboard](https://github.com/afshan5225/Sales-Dashboard/blob/main/Sales_dashboard.png)
 
 ## 🛠️ How to View the Dashboard
 1. Clone or download this repository.
