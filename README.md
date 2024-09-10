@@ -18,7 +18,7 @@ The dashboard presents key sales metrics for the year, including:
 - **Manager Performance Breakdown**: Displaying regional managers' performance with sales and profit analysis.
 
 ## 🖼️ Screenshot
-![Sales Dashboard](./path_to_your_screenshot.png)
+![Sales Dashboard](https://github.com/afshan5225/Sales-Dashboard/blob/main/Sales_dashboard.png)
 
 ## 🛠️ How to View the Dashboard
 1. Clone or download this repository.
