@@ -17,7 +17,7 @@ The dashboard presents key sales metrics for the year, including:
 - **Monthly Sales by Segment**: Graphical insights for segments like Consumer, Corporate, and Home Office.
 - **Manager Performance Breakdown**: Displaying regional managers' performance with sales and profit analysis.
 
-## 🖼️ Screenshot
+## 🖼️ Dashboard
 ![Sales Dashboard](https://github.com/afshan5225/Sales-Dashboard/blob/main/Sales_dashboard.png)
 
 ## 🛠️ How to View the Dashboard
